@@ -19,3 +19,25 @@ FakeStoreAPI kullanarak oluşturulan bu alışveriş sitesi, ürün listeleme, f
 - **Sayfalandırma:** Ürünleri sayfa bazlı gösterme  
 
 🚀 Hızlı, kullanıcı dostu ve modern bir alışveriş deneyimi sunar!
+
+# 🛒 Shopping Website
+
+This shopping website, built using FakeStoreAPI, includes essential e-commerce features such as product listing, filtering, sorting, and cart management.
+
+## 🚀 Technologies
+- **React 19** - UI development  
+- **Redux Toolkit** - Global state management  
+- **React Router DOM** - Page navigation  
+- **Tailwind CSS** - Styling  
+- **React Icons** - Icons  
+- **React Paginate** - Pagination  
+- **React Slick & Slick Carousel** - Homepage slider component  
+- **FakeStoreAPI** - Mock product data  
+
+## 📌 Features
+- **Homepage:** Product showcase with a slider  
+- **Product Listing:** Category-based filtering, price sorting  
+- **Cart:** Add/remove items, view total amount  
+- **Pagination:** Display products page by page  
+
+🚀 A fast, user-friendly, and modern shopping experience!
