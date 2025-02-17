@@ -38,6 +38,7 @@ This shopping website, built using FakeStoreAPI, includes essential e-commerce f
 - **Homepage:** Product showcase with a slider  
 - **Product Listing:** Category-based filtering, price sorting  
 - **Cart:** Add/remove items, view total amount  
-- **Pagination:** Display products page by page  
+- **Pagination:** Display products page by page
+  
 
 🚀 A fast, user-friendly, and modern shopping experience!
