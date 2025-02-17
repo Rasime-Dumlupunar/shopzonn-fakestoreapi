@@ -40,5 +40,7 @@ This shopping website, built using FakeStoreAPI, includes essential e-commerce f
 - **Cart:** Add/remove items, view total amount  
 - **Pagination:** Display products page by page
   
-
 🚀 A fast, user-friendly, and modern shopping experience!
+
+
+![](https://github.com/Rasime-Dumlupunar/shopzonn-fakestoreapi/blob/main/shopzonn.gif)
